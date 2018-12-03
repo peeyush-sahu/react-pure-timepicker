@@ -15,7 +15,7 @@ Default styles included in styles.css
 
 ## Demo
 
-Coming Soon ...!
+[![Edit React Pure Time picker Demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/x3qmno78yw?view=preview)
 
 ## How to Use
 

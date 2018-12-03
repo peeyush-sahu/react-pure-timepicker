@@ -1,6 +1,6 @@
 {
   "name": "react-pure-timepicker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Awesome Timepicker for your React App.",
   "main": "dist/index.js",
   "scripts": {
